@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">commonlib</string>
+
+    <string name="article">文章</string>
+    <string name="club">社区</string>
+    <string name="profile">我的</string>
+</resources>
